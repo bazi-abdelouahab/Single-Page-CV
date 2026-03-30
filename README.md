@@ -27,4 +27,5 @@ Engineering Student at ENSTI-Annaba
 ## How to View
 
 Simply open `cv-page.html` in any web browser.
+
 https://roadmap.sh/projects/single-page-cv
